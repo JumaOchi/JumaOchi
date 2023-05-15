@@ -1,9 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">Hi 👋, I'm JumaOchi</h1>
 <h3 align="center">A Mining Engineer turned software engineer & data analyst</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif”>
+                                                 
 <p align="left"> <a href="https://twitter.com/juma_bars" target="blank"><img src="https://img.shields.io/twitter/follow/juma_bars?logo=twitter&style=for-the-badge" alt="juma_bars" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif”>
 
 - 🔭 I’m currently working on [PRESCRIPTION BUDDY](https://github.com/JumaOchi/medtech_portfolio-project)
 
