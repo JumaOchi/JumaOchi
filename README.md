@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PRESCRIPTION BUDDY](https://github.com/JumaOchi/medtech_portfolio-project)
 
-- 🌱 I’m currently learning **Data analytics, Go**
+- 🌱 I’m currently learning **Data analytics**
 
 - 👯 I’m looking to collaborate on [PRESCRIPTION BUDDY](https://github.com/JumaOchi/medtech_portfolio-project)
 
