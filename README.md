@@ -3,7 +3,6 @@
 <h3 align="center">A Mining Engineer turned software engineer & data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                  
-<p align="left"> <a href="https://twitter.com/juma_bars" target="blank"><img src="https://img.shields.io/twitter/follow/juma_bars?logo=twitter&style=for-the-badge" alt="juma_bars" /></a> </p>
 
 - 🔭 I’m currently working on [PRESCRIPTION BUDDY](https://github.com/JumaOchi/medtech_portfolio-project)
 
