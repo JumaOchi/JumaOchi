@@ -1,14 +1,14 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">Hi 👋, I'm JumaOchi</h1>
-<h3 align="center">A Mining Engineer turned software engineer & data analyst</h3>
+<h3 align="center">A software engineer & data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                  
 
-- 🔭 I’m currently working on [PRESCRIPTION BUDDY](https://github.com/JumaOchi/medtech_portfolio-project)
+- 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/DATAANALYSIS)
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 👯 I’m looking to collaborate on [PRESCRIPTION BUDDY](https://github.com/JumaOchi/medtech_portfolio-project)
+- 👯 I’m looking to collaborate on [Analytics](https://github.com/JumaOchi)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JumaOchi](https://github.com/JumaOchi)
 
