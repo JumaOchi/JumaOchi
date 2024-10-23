@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flask, C, Python, Javascript, API's and node.js**
 
-- 📫 How to reach me **ochiengjuma95@gmail.com**
+- 📫 How to reach me **ochiengjuma95@gmail.com or jumaochi1@gmail.com**
 
 - 📄 Know about my experiences
 - 
