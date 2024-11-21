@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                  
 
-- 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/DATAANALYSIS)
+- 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/PortfolioProjects/tree/main)
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 👯 I’m looking to collaborate on [Analytics](https://github.com/JumaOchi)
+- 👯 I’m looking to collaborate on [Analytics](https://github.com/JumaOchi/PortfolioProjects/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JumaOchi](https://github.com/JumaOchi)
 
