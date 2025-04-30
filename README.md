@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                  
 
-- 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/PortfolioProjects/tree/main)
+- 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/)
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 👯 I’m looking to collaborate on [Analytics](https://github.com/JumaOchi/PortfolioProjects/tree/main)
+- 👯 I’m looking to collaborate on [Projects](https://github.com/JumaOchi)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JumaOchi](https://github.com/JumaOchi)
 
@@ -16,10 +16,8 @@
 
 - 💬 Ask me about **Flask, C, Python, Javascript, API's and node.js**
 
-- 📫 How to reach me **ochiengjuma95@gmail.com or jumaochi1@gmail.com**
+- 📫 How to reach me **jumaochi1@gmail.com**
 
-- 📄 Know about my experiences
-- 
 - ⚡ Fun fact **I am a pretty good singer**
 
 ### Blogs posts
