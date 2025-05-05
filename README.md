@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/)
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on [Projects](https://github.com/JumaOchi)
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jumaochi1](https://medium.com/@jumaochi1)
 
-- 💬 Ask me about **Flask, C, Python, Javascript, API's and node.js**
+- 💬 Ask me about **Flask, C, Django, Python, Javascript, API's, GO , Machine Learning, AI, Data Analytics**
 
 - 📫 How to reach me **jumaochi1@gmail.com**
 
