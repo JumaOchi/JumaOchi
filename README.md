@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                  
 
-- 🔭 I’m currently working on [DATA ANALYTICS](https://github.com/JumaOchi/)
+- 🔭 I’m currently building [JAZA FINANCE](https://github.com/JumaOchi/JAZA)
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on [Projects](https://github.com/JumaOchi)
+- 👯 I’m looking to collaborate on [JAZA FINANCE](https://github.com/JumaOchi/JAZA)
 
-- 👨‍💻 All of my projects are available at [https://github.com/JumaOchi](https://github.com/JumaOchi)
+- 👨‍💻 All of my projects are available at [PROJECTS](https://github.com/JumaOchi)
 
-- 📝 I regularly write articles on [https://medium.com/@jumaochi1](https://medium.com/@jumaochi1)
+- 📝 I regularly write articles on [MY BLOG](https://medium.com/@jumaochi1)
 
-- 💬 Ask me about **Flask, C, Django, Python, Javascript, API's, GO , Machine Learning, AI, Data Analytics**
+- 💬 Ask me about **Flask, C, Django, Python, Typescript, GO , Machine Learning, AI, Data Analytics**
 
 - 📫 How to reach me **jumaochi1@gmail.com**
 
