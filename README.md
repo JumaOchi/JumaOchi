@@ -1,91 +1,80 @@
-<!-- ASCII Banner -->
-<pre align="center">
-   __     ___      _            _       _             
-   \ \   / (_)    | |          | |     | |            
-    \ \_/ / _  ___| | ___   ___| | __ _| |_ ___  _ __ 
-     \   / | |/ __| |/ _ \ / __| |/ _` | __/ _ \| '__|
-      | |  | | (__| | (_) | (__| | (_| | || (_) | |   
-      |_|  |_|\___|_|\___/ \___|_|\__,_|\__\___/|_|   
-     Software Engineer • Data Analyst • Cloud Curious
-</pre>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Hi, I'm Victor Juma
-
-I'm a **software engineer and data analyst** who loves building tools that make data make sense — and occasionally, memes about it.
-
-- 🔭 Building [**JAZA FINANCE**](https://github.com/JumaOchi/JAZA) – fintech for informal businesses in Africa
-- 🧠 Learning **Snowflake, AWS**, and how not to scream at `terraform plan`
-- ✍️ [Medium](https://medium.com/@jumaochi1) – where I turn technical deep dives into bedtime reading
-- 💬 Ask me about: `Flask`, `Supabase`, `Python`, `PostgreSQL`, `Go`, `Power BI`, `Streamlit`, `Data Engineering`
-- ⚡ Fun fact: I debug better with music on and pressure high 🎧
-
-</td>
-<td width="40%" valign="top">
-
-<!-- Realistic terminal with prompt and blinking cursor -->
+<!-- Animated Banner-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4AE24A&width=340&height=220&lines=$+ls+skills;loading...;Python+Django+Flask;Go+%7C+Supabase+%7C+PostgreSQL;Power+BI+%7C+Tableau+%7C+Streamlit;Snowflake+%7C+AWS+%7C+S3;Docker+%7C+Nginx+%7C+Linux;TypeScript+%7C+Node+%7C+FastAPI;Data+Nerd+%7C+Cloud+Rookie;_+%7C+_+%7C+blinking_cursor" alt="terminal typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Victor+Juma+%F0%9F%91%8B;I+build+tools+that+make+data+dance+%F0%9F%A4%9F;Software+Engineer+%7C+Data+Analyst+%7C+Cloud+Apprentice;AWS+%7C+Snowflake+%7C+PostgreSQL+%7C+Python+%7C+Go;Funny+but+dangerously+good+at+debugging+%F0%9F%98%80" alt="typing banner" />
 </p>
 
-</td>
-</tr>
-</table>
+---
+
+## 🖥 Terminal Output
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=$+cat+display_skills.txt;Python%2C+Go%2C+TypeScript%2C+Node.js;Django%2C+Flask%2C+FastAPI%2C+Supabase;PostgreSQL%2C+MySQL%2C+Snowflake%2C+Redis;Streamlit%2C+Power+BI%2C+Tableau%2C+Pandas;Docker%2C+Linux%2C+NGINX%2C+AWS;+clear; ;$+cat+other_stuff.txt;Debugs+better+with+music+%F0%9F%8E%A7;Plays+guitar+(for+joy%2C+not+interviews);Once+fixed+a+bug+by+turning+it+off+and+on+again;Can+explain+recursion+(but+only+once);Looking+for+a+team+that+loves+clean+code+and+good+banter" alt="terminal animation" />
+</p>
 
 ---
 
-## 🧠 Data + Code = 🔥
+##  About Me
+
+I’m Victor — a **Software Engineer**, **Data Analyst**, and upcoming **Cloud Ninja™**.  
+I wrangle terabytes of data into meaningful insights, then debug why my perfectly logical code thinks 2+2=NaN.
+
+- 🧠 Focused on **Data Engineering**, **Fintech**, and **Backends that scale**
+- 📊 Love turning raw data into insights (or dashboards that slap)
+- ☁️ Cloud tools: **AWS**, **Snowflake**, **Supabase**, **Docker**, and **NGINX**
+- 🎸 Plays guitar to debug life
+- 🧠 Believer in growth > perfection
+
+---
+
+## 🚀 Featured Projects
+
+|  Project |  Description |
+|-----------|----------------|
+| 🟢 [**JAZA FINANCE**](https://github.com/JumaOchi/JAZA) | Real-time income tracking & credit for small businesses |
+| 🟣 [**Pricing Analytics Pipeline**](https://github.com/JumaOchi/pricing-analytics-pipeline) | Turns messy pricing data into business-ready dashboards |
+| 🔗 [Live Demo](https://pricinganalyticspipeline.streamlit.app/) | Powered by Streamlit + Pandas + vibes |
+
+---
+
+## 🛠️ My Toolbox
 
 ```bash
-$ cat whoami.txt
+$ cat tools.txt
 ````
 
 ```text
-Identity:     Data Analyst disguised as a Software Engineer (or vice versa)
-Specialty:    Making dashboards that slap & APIs that don't crash
-Cloud Stuff:  AWS, Snowflake, S3 (soon: Certified Cloud Ninja™)
-Data Vibes:   SQL, Python, Streamlit, Tableau, Power BI
-Dev Stack:    Flask, Go, FastAPI, Supabase, Docker, PostgreSQL
+Languages:     Python, Go, TypeScript, SQL
+Frameworks:    Flask, Django, FastAPI, next.js
+Databases:     PostgreSQL, MySQL, Snowflake, Redis
+Data Tools:    Pandas, NumPy, Power BI, Tableau, Streamlit, Supabase
+Cloud & Infra: AWS, Docker, Linux, NGINX, Vagrant
+Other:         Git, Postman, Excel (VLOOKUP, Pivot Tables), Heroku, vercel,  
 ```
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🤓 Dev Mood Board
 
-| Project                                                                                     | Description                                           |
-| ------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 🟢 [**JAZA FINANCE**](https://github.com/JumaOchi/JAZA)                                     | Income tracking + microcredit for informal businesses |
-| 🟣 [**Pricing Analytics Pipeline**](https://github.com/JumaOchi/pricing-analytics-pipeline) | End-to-end data pipeline from CSV to live dashboard   |
-| 🔗 [Live Dashboard](https://pricinganalyticspipeline.streamlit.app/)                        | Built with Streamlit. Looks clean. Works better.      |
-
----
-
-## 🤓 Developer Mood Board
-
-`Tech I love + things that keep me sane:`
-
-☕ VS Code • 🐍 Python • 🧠 Pandas
-🐳 Docker • 🔥 GitHub Actions
-📈 Power BI • 📊 Streamlit
-🌩️ AWS • ❄️ Snowflake
-😅 Debugging at 1am • 🤯 Forgetting a semicolon
-🎶 Music while coding • ✨ Finally passing CI on 3rd try
+☕ GO
+🐍 Python
+📊 Power BI
+📈 Data Analytics
+🐳 Docker
+📦 AWS
+🎶 Debugging with Lo-fi
+🎸 Guitar solos in between terminal commands
+💥 CI passing on third try (as planned)
 
 ---
 
-## ✍️ Latest Blog Posts
+## ✍️ Articles & Writing
 
 *  [Pricing Analytics Pipeline – GitHub](https://github.com/JumaOchi/pricing-analytics-pipeline)
-*  [More on Medium](https://medium.com/@jumaochi1)
+*  [More tech rants & insights on Medium](https://medium.com/@jumaochi1)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (proof I code for real)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JumaOchi&show_icons=true&theme=radical&hide_border=true" />
@@ -95,7 +84,7 @@ Dev Stack:    Flask, Go, FastAPI, Supabase, Docker, PostgreSQL
 
 ---
 
-## 🌍 Find Me Here
+## 🌍 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-juma-837034185/" target="_blank">
@@ -114,5 +103,5 @@ Dev Stack:    Flask, Go, FastAPI, Supabase, Docker, PostgreSQL
 
 ---
 
-> *“I make data dance and code compile (on the third try)—seeking a company that values growth over perfection. lol!”*
+> *“I make data dance and code compile (on the third try)—seeking a team that values clean code, curiosity, and humor.”*
 
