@@ -1,100 +1,90 @@
-# Hi there! 👋 I'm Victor Juma
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer;Data+Analyst;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="coding animation">
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Software Engineer** and **Data Analyst** with expertise in building scalable web applications and deriving insights from complex datasets. Currently focused on **Data Engineering** and developing innovative fintech solutions.
-
-```javascript
-const victor = {
-    code: ["Python", "JavaScript", "TypeScript", "C", "Go"],
-    frameworks: ["Django", "Flask", "Express.js", "Bootstrap"],
-    databases: ["MySQL", "MongoDB", "SQLite", "Redis"],
-    tools: ["Docker", "Git", "Nginx", "Postman", "Selenium"],
-    specialties: ["Machine Learning", "AI", "Data Analytics", "Full Stack Development"],
-    currentFocus: "Data Engineering & Fintech Innovation"
-};
-```
-
-## 🔥 Current Projects
-
-### 🏦 [JAZA FINANCE](https://github.com/JumaOchi/JAZA)
-A comprehensive financial management platform built with modern web technologies. Features include:
-- 💰 Personal finance tracking
-- 📊 Advanced analytics dashboard  
-- 🔒 Secure transaction processing
-- 📱 Mobile-responsive design
-
-*Looking for collaborators! Feel free to contribute.*
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JumaOchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JumaOchi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumaOchi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,go,html,css" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=django,flask,express,bootstrap,nodejs" />
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,docker,git,nginx,linux" />
-
-### Data Science & ML
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-
-</div>
-
-## 📝 Latest Blog Posts
-
-I regularly share insights about software development, data analysis, and emerging technologies on [Medium](https://medium.com/@jumaochi1).
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/victor-juma-837034185/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@jumaochi1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:jumaochi1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<!-- Terminal-style animated header using SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22B455&center=true&vCenter=true&width=600&lines=$+ls+display_skills.sh;Loading...;Python+Django+%26+Flask;Go+%7C+PostgreSQL+%7C+Supabase;Data+Analytics+%26+Machine+Learning;Power+BI+%7C+Tableau+%7C+Streamlit;Docker+%7C+Linux+%7C+Nginx;TypeScript+%7C+FastAPI+%7C+Node.js;Welcome+to+Victor+Juma's+Terminal+Workspace" alt="typing animation" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JumaOchi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+# 👋 Hi, I’m **Victor Juma**
 
-<div align="center">
-  <i>⚡ Fun fact: I'm a pretty good singer when I'm not coding! 🎵</i>
-</div>
+**Software Engineer** ⚙️ & **Data Analyst** 📊 — I use data and code to solve real-world problems and deliver value through smart, scalable tools.
+
+- 🔭 Building **[JAZA FINANCE](https://github.com/JumaOchi/JAZA)** – A financial visibility & credit tool for informal businesses.
+- 🌱 Deepening my skills in **Data Engineering** & **Backend Infrastructure**
+- ✍️ Writing on [Medium](https://medium.com/@jumaochi1)
+- 💬 Let’s talk: Python · TypeScript · Go · Django · PostgreSQL · Supabase · Data analytics · cloud
+- 📫 Email: **jumaochi1@gmail.com**
+- ⚡ Fun fact: I’m a passionate singer 🎤
+
+---
+
+## 🛠️ Tech Toolbox
+
+```bash
+$ cat skills.txt
+````
+
+```text
+Programming:     Python, Go, JavaScript, TypeScript, C
+Frameworks:      Django, Flask, FastAPI, Node.js
+Frontend:        HTML5, CSS3, Bootstrap, Tailwind
+Data & AI:       Pandas, NumPy, Scikit-learn, Streamlit, OpenAI APIs
+Visualization:   Power BI, Tableau, Matplotlib
+Databases:       PostgreSQL, MySQL, SQLite, Supabase, Redis
+DevOps:          Docker, Linux, Git, Nginx, Vagrant
+Tools:           Postman, VS Code, Excel (Pivot Tables, VLookup), Heroku
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [JAZA Finance](https://github.com/JumaOchi/JAZA)
+
+> Empowering small businesses with real-time income tracking and behavior-driven microcredit.
+
+### 🔹 [Pricing Analytics Pipeline](https://github.com/JumaOchi/pricing-analytics-pipeline)
+
+> A full pipeline from pricing data to dashboards.
+> 👉 **Live demo**: [Streamlit App](https://pricinganalyticspipeline.streamlit.app/)
+
+---
+
+## ✍️ Recent Blog Posts
+
+* [Building a Pricing Analytics Pipeline](https://medium.com/@jumaochi1/price-cuts-that-hurt-profits-a-love-letter-to-shareholder-value-e71efef5bed3)
+* [More posts on Medium →](https://medium.com/@jumaochi1)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JumaOchi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumaOchi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/victor-juma-837034185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@jumaochi1" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:jumaochi1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://jumaochi.github.io/juma" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+> *“I make data dance and code compile (on the third try)—seeking a company that values growth over perfection.”*
+
