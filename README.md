@@ -8,7 +8,7 @@
 ## 🖥 Terminal Output
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=$+cat+display_skills.txt;Python%2C+Go%2C+TypeScript%2C+Node.js;Django%2C+Flask%2C+FastAPI%2C+Supabase;PostgreSQL%2C+MySQL%2C+Snowflake%2C+Redis;Streamlit%2C+Power+BI%2C+Tableau%2C+Pandas;Docker%2C+Linux%2C+NGINX%2C+AWS;+clear; ;$+cat+other_stuff.txt;Debugs+better+with+music+%F0%9F%8E%A7;Plays+guitar+(for+joy%2C+not+interviews);Once+fixed+a+bug+by+turning+it+off+and+on+again;Can+explain+recursion+(but+only+once);Looking+for+a+team+that+loves+clean+code+and+good+banter" alt="terminal animation" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=$+cat+display_skills.txt;Python%2C+Go%2C+TypeScript%2C+Node.js;Django%2C+Flask%2C+FastAPI%2C+Supabase;PostgreSQL%2C+MySQL%2C+Snowflake%2C+Redis;Streamlit%2C+Power+BI%2C+Tableau%2C+Pandas;Docker%2C+Linux%2C+NGINX%2C+AWS;+clear; ;$+cat+other_stuff.txt;Debugs+better+with+music+%F0%9F%8E%A7;Plays+guitar+(for+joy%2C+not+interviews);Once+fixed+a+bug+by+turning+it+off+and+on+again;Can+explain+recursion+(but+only+once);Looking+for+a+team+that+loves+clean+code+and+good+banter](https://raw.githubusercontent.com/JumaOchi/JumaOchi/refs/heads/main/assets/github_terminal_final.svg)" alt="terminal animation" />
 </p>
 
 ---
