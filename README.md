@@ -5,7 +5,7 @@
 
 ---
 
-## 🖥 Terminal Output
+## Juma's Output
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JumaOchi/JumaOchi/refs/heads/main/assets/github_terminal_final.svg" alt="terminal animation" />
