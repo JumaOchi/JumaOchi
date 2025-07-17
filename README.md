@@ -16,14 +16,14 @@
 
 ##  About Me
 
-I’m Victor — a **Software Engineer**, **Data Analyst**, and upcoming **Cloud Ninja™**.  
+I’m Victor  a **Software Engineer**, **Data Analyst**, and upcoming **Cloud Ninja**.  
 I wrangle terabytes of data into meaningful insights, then debug why my perfectly logical code thinks 2+2=NaN.
 
-- 🧠 Focused on **Data Engineering**, **Fintech**, and **Backends that scale**
-- 📊 Love turning raw data into insights (or dashboards that slap)
-- ☁️ Cloud tools: **AWS**, **Snowflake**, **Supabase**, **Docker**, and **NGINX**
-- 🎸 Plays guitar to debug life
-- 🧠 Believer in growth > perfection
+-  Focused on **Data Engineering**, **Fintech**, and **Backends that scale**
+-  Love turning raw data into insights (or dashboards that slap)
+-  Cloud tools: **AWS**, **Snowflake**, **Supabase**, **Docker**, and **NGINX**
+-  Plays guitar to debug life
+-  Believer in growth > perfection
 
 ---
 
