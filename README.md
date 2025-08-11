@@ -64,7 +64,7 @@ Other:         Git, Postman, Excel (VLOOKUP, Pivot Tables), Heroku, vercel,
 📦 AWS
 🎶 Debugging with Lo-fi
 🎸 Guitar solos in between terminal commands
-💥 CI passing on third try (as planned)
+💥 Can explain recursion but only once,
 
 ---
 
@@ -75,7 +75,7 @@ Other:         Git, Postman, Excel (VLOOKUP, Pivot Tables), Heroku, vercel,
 
 ---
 
-## 📊 GitHub Stats (proof I code for real)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JumaOchi&show_icons=true&theme=radical&hide_border=true" />
