@@ -61,7 +61,8 @@ Other:         Git, Postman, Excel (VLOOKUP, Pivot Tables), Heroku, vercel,
 📊 Power BI
 📈 Data Analytics
 🐳 Docker
-📦 AWS
+📦OCI
+📦Azure
 🎶 Debugging with Lo-fi
 🎸 Guitar solos in between terminal commands
 💥 Can explain recursion but only once,
