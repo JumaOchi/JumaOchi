@@ -1,6 +1,6 @@
 <!-- Animated Banner-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Victor+Juma+%F0%9F%91%8B;I+build+tools+that+make+data+dance+%F0%9F%A4%9F;Software+Engineer+%7C+Data+Analyst+%7C+Cloud+Apprentice;AWS+%7C+Snowflake+%7C+PostgreSQL+%7C+Python+%7C+Go;Funny+but+dangerously+good+at+debugging+%F0%9F%98%80" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Victor+Juma+%F0%9F%91%8B;I+build+tools+that+make+data+dance+%F0%9F%A4%9F;Analytics+Engineer+%7C+Data+Analyst+%7C+Cloud+Apprentice;AWS+%7C+Snowflake+%7C+PostgreSQL+%7C+Python+%7C+Go;Analytical+Mindset+good+at+maximizing+shareholder+Value%F0%9F%98%80" alt="typing banner" />
 </p>
 
 ---
@@ -16,12 +16,12 @@
 
 ##  About Me
 
-I’m Victor  a **Software Engineer**, **Data Analyst**, and upcoming **Cloud Ninja**.  
+I’m Victor  a **Data  Professional**.  
 I wrangle terabytes of data into meaningful insights, then debug why my perfectly logical code thinks 2+2=NaN.
 
--  Focused on **Data Engineering**, **Fintech**, and **Backends that scale**
+-  Focused on **Analytics Engineering**, **Data Analytics**, and **Data Architecture**
 -  Love turning raw data into insights (or dashboards that slap)
--  Cloud tools: **AWS**, **Snowflake**, **Supabase**, **Docker**, and **NGINX**
+-  Cloud tools: **AWS**, **Snowflake**, **Supabase**, **Azure**, and **OCI**
 -  Plays guitar to debug life
 -  Believer in growth > perfection
 
@@ -105,5 +105,5 @@ Other:         Git, Postman, Excel (VLOOKUP, Pivot Tables), Heroku, vercel,
 
 ---
 
-> *“I make data dance and code compile (on the third try)—seeking a team that values clean code, curiosity, and humor.”*
+> *“I make data dance and code compile (on the third try)—seeking a team that values clean code, curiosity, and growth.”*
 
