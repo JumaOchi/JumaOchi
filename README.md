@@ -1,6 +1,6 @@
 <!-- Animated Banner-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Victor+Juma+%F0%9F%91%8B;I+build+tools+that+make+data+dance+%F0%9F%A4%9F;Analytics+Engineer+%7C+Data+Analyst+%7C+Cloud+Apprentice;AWS+%7C+Snowflake+%7C+PostgreSQL+%7C+Python+%7C+Go; analytical+and+good+at+maximizing+shareholder+Value%F0%9F%98%80" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Victor+Juma+%F0%9F%91%8B;I+build+tools+that+make+data+dance+%F0%9F%A4%9F;Analytics+Engineer+%7C+Data+Analyst+%7C+Cloud+Apprentice;AWS+%7C+Snowflake+%7C+PostgreSQL+%7C+Python+%7C+Go;analytical+and+good+at+maximizing+shareholder+Value%F0%9F%98%80" alt="typing banner" />
 </p>
 
 ---
